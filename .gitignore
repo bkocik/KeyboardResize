@@ -1,0 +1,13 @@
+.DS_Store
+contents.xcworkspacedata
+xcuserdata/
+Podfile.lock
+Pods
+*.swp
+*~.nib
+
+build/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
