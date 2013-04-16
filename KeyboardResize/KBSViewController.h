@@ -11,5 +11,6 @@
 @interface KBSViewController : UIViewController
 
 @property (nonatomic, weak) IBOutlet UITextField *textField;
+@property (weak, nonatomic) IBOutlet UIView *contentView;
 
 @end
